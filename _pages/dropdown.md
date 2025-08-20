@@ -5,9 +5,12 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: bookshelf
-    permalink: /books/
+  - title: Movies & TV
+    permalink: /films/
   - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: Music
+    permalink: /music/
+  - title: divider
+  - title: Bookshelf
+    permalink: /books/
 ---
