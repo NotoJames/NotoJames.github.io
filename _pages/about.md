@@ -7,7 +7,7 @@ subtitle: Student at the University of Georgia | Go Dawgs | Just because there i
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Athens, Georgia 30601</p>
 

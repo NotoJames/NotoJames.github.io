@@ -35,44 +35,28 @@
       institution: Transport solutions of America
       year: 2019 - 2020
       description:
-        - Installed, configured, and maintained Dell servers, desktops, laptops, and peripherals to meet
-operational and client needs.
-        - Performed hardware and software upgrades, including component installation, OS configuration, and
-application updates to improve system performance.
-        - Provided Tier 1 & Tier 2 technical support for printers, PCs, mobile devices, and networking equipment,
-resolving issues promptly to minimize downtime.
-        - Diagnosed and troubleshot hardware, software, and network malfunctions, identifying root causes and
-implementing effective resolutions.
-        - Coordinated the installation and deployment of enterprise software solutions to enhance business
-operations.
-        - Collaborated with clients and cross-functional teams to translate requirements into custom, turnkey IT
-solutions.
-        - Delivered end-user training on best practices, data security, and software usage to improve productivity
-and reduce recurring issues.
+        - Installed, configured, and maintained Dell servers, desktops, laptops, and peripherals to meet operational and client needs.
+        - Performed hardware and software upgrades, including component installation, OS configuration, and application updates to improve system performance.
+        - Provided Tier 1 & Tier 2 technical support for printers, PCs, mobile devices, and networking equipment, resolving issues promptly to minimize downtime.
+        - Diagnosed and troubleshot hardware, software, and network malfunctions, identifying root causes and implementing effective resolutions.
+        - Coordinated the installation and deployment of enterprise software solutions to enhance business operations.
+        - Collaborated with clients and cross-functional teams to translate requirements into custom, turnkey IT solutions.
+        - Delivered end-user training on best practices, data security, and software usage to improve productivity and reduce recurring issues.
         - Administered user accounts, access controls, and security protocols to safeguard sensitive information.
         - Applied IT asset management principles to track, maintain, and optimize equipment lifecycle.
     - title: Search Quality Rater
       institution: RWS
       year: May 2025 - Current
       description:
-        - Performed search engine evaluation and relevance assessment of web content to improve AI search
-algorithms and enhance user experience.
-        - Conducted advanced online research and applied Boolean search techniques to verify accuracy,
-credibility, and context of search results.
-        - Analyzed and rated content based on relevance, quality, cultural appropriateness, and alignment with
-U.S. market trends.
-        - Maintained high productivity and accuracy metrics in compliance with Service Level Agreements
-(SLAs) and project quality standards.
-        - Leveraged deep knowledge of U.S. popular culture, media, and terminology to evaluate search result
-intent and contextual relevance.
-        - Completed intensive client training modules and passed certification assessments to qualify for live
-evaluation projects.
-        - Adhered to data privacy, confidentiality, and non-disclosure agreements (NDAs) while following secure
-browsing practices.
-        - Utilized critical thinking and information analysis skills to identify patterns, improve search engine
-performance, and support machine learning model training.
-        - Effectively managed a remote work schedule, demonstrating time management and self-motivation in a
-fast-paced, deadline-driven environment.
+        - Performed search engine evaluation and relevance assessment of web content to improve AI search algorithms and enhance user experience.
+        - Conducted advanced online research and applied Boolean search techniques to verify accuracy, credibility, and context of search results.
+        - Analyzed and rated content based on relevance, quality, cultural appropriateness, and alignment with U.S. market trends.
+        - Maintained high productivity and accuracy metrics in compliance with Service Level Agreements (SLAs) and project quality standards.
+        - Leveraged deep knowledge of U.S. popular culture, media, and terminology to evaluate search result intent and contextual relevance.
+        - Completed intensive client training modules and passed certification assessments to qualify for live evaluation projects.
+        - Adhered to data privacy, confidentiality, and non-disclosure agreements (NDAs) while following secure browsing practices.
+        - Utilized critical thinking and information analysis skills to identify patterns, improve search engine performance, and support machine learning model training.
+        - Effectively managed a remote work schedule, demonstrating time management and self-motivation in a fast-paced, deadline-driven environment.
 
 - title: Open Source Projects
   type: time_table
@@ -81,13 +65,9 @@ fast-paced, deadline-driven environment.
       year: 2022
       description: Using a few python libraries I constructed system that used facial recognition to deliver a live studio audience.
         - Developed and implemented a real-time live studio audience, using facial recognition technology.
-        - Integrated facial recognition algorithms with a database of recognized faces to trigger predefined sound
-bites upon detection within the frame.
+        - Integrated facial recognition algorithms with a database of recognized faces to trigger predefined sound bites upon detection within the frame.
         - Utilized Python and OpenCV for facial recognition and a package called playsound for sound bite playback.
-        - I was very satisfied with the foundational level that this project came out to. It works as expected and I can
-see many features being added to it. Features like an update database of frequently seen faces, in order to keep a
-solid grasp on specified individuals changing faces. As well as possibly a mobile app or an API backend that users
-can use to manage sound bites and add people to the database.
+        - I was very satisfied with the foundational level that this project came out to. It works as expected and I can see many features being added to it. Features like an update database of frequently seen faces, in order to keep a solid grasp on specified individuals changing faces. As well as possibly a mobile app or an API backend that users can use to manage sound bites and add people to the database.
 #    - title: Director
 #      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
 #      year: 1917-1933
