@@ -86,7 +86,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Thoughts of James # blog_name will be displayed in your blog page
-blog_description: A collection of things I found interesting
+blog_description: A collection of topics I found interesting
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -190,6 +190,14 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  # here are the removal customizations
+  - _news/announcement_*.md
+  - _pages/teaching.md
+  - _pages/publications.md
+  - _pages/profiles.md
+  - _posts/
+  - _projects/?_project.md
+  - assets/jupyter/blog.ipynb
 keep_files:
   - CNAME
   - .nojekyll
