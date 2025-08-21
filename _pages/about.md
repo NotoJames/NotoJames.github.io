@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-James N. is a technology professional with experience in computer systems support, data analysis, and applied mathematics. He has worked as a Technical Specialist, where he configured and maintained servers, desktops, and software systems to support business operations. His background also includes experience with databases, hardware management, and troubleshooting complex technical issues.
+James Notoma is a technology professional with experience in computer systems support, data analysis, and applied mathematics. He has worked as a Technical Specialist, where he configured and maintained servers, desktops, and software systems to support business operations. His background also includes experience with databases, hardware management, and troubleshooting complex technical issues.
 
 Academically, James has studied mathematics and computer science, with coursework spanning discrete mathematics, probability, and graph theory. He has also studied applied data science, working with statistical modeling, regression analysis, and computational tools for analyzing real-world datasets.
 
