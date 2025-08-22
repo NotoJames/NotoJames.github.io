@@ -58,7 +58,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/books/";
               },
-            },{id: "books-the-godfather",
+            },{id: "post-a-complete-understanding-of-linear-and-logistic-regression",
+        
+          title: "A complete understanding of Linear and Logistic Regression",
+        
+        description: "In depth look at Linear &amp; Logistic Regression",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Linear-Logistic-Regression/";
+          
+        },
+      },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
